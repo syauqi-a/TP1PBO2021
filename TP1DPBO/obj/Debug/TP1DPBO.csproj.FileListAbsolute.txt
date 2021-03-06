@@ -1,0 +1,11 @@
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\bin\Debug\TP1DPBO.exe.config
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\bin\Debug\TP1DPBO.exe
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\bin\Debug\TP1DPBO.pdb
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.csprojAssemblyReference.cache
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.Properties.Resources.resources
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.csproj.GenerateResource.cache
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.csproj.CoreCompileInputs.cache
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.exe
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.pdb
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.Login.resources
+D:\data D\kuliah\smtr4\DPBO\prak\TP1DPBO\TP1DPBO\obj\Debug\TP1DPBO.MenuUtama.resources

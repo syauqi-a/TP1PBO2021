@@ -1,0 +1,17 @@
+Saya Khamidah Ahmad Syauqi mengerjakan evaluasi TP 1 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.Aamiin.
+Kesulitan:
+- Saya kesulitan menambakan tombol pada saat menampilkan barang.
+- Saat pertama menjalankan program tampilan barang lengkap semua. Tetapi setelah dilakukan pencarian, hanya ada Label nama dan gambar.
+- Saat menampilkan detail barang juga gagal menampilkan detail secara utuh, hanya label nama dan gambarnya saja.
+
+Fitur:
+- Login dan logout.
+- Pemberitahuan ketika terjadi kesalahan saat login dan ketika berhasil login.
+- Inputan pada text box password ditampilkan menjadi "*" (asterisk).
+- Link menuju web katalog
+- Tampilan semua barang
+- Tampilan satu barang ketika user memilih barang dari semua barang.
+- Fitur pencarian:
+    - pencarian dengan harga,
+    - pencarian dengan jenis barang, dan
+    - pencarian harga dan jenis barang.
